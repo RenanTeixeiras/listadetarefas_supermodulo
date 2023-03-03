@@ -1,0 +1,10 @@
+body {
+    display: flex;
+    flex-direction: column;
+    font-family: 'Cutive Mono';font-size: 22px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: 0;
+    background-color: gray;
+  }
